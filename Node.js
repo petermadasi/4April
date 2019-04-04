@@ -6,6 +6,8 @@ var user = {
     website: "java2s.com"
 };
 
+
+//Example
 for (key in user) {
     console.log(key);
 }
